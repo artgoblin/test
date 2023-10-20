@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 Hello,world123! 
 
-=======
-Hello, test! 
->>>>>>> e6e67a9b6f53877492e2e0530a313a62043b8a12
+
+
