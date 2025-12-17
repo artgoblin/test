@@ -1,0 +1,36 @@
+[33mcommit 1861a347c7a847a9789a1af8617a6dbee8524d03[m[33m ([m[1;36mHEAD -> [m[1;32mtest[m[33m, [m[1;31morigin/test[m[33m)[m
+Author: Satabda Das <72606593+artgoblin@users.noreply.github.com>
+Date:   Fri Oct 20 15:38:24 2023 +0530
+
+    Update example.txt
+
+[33mcommit e6cd4b350ecfba9c2d98e1f24202dd9a3f6d72da[m
+Merge: bf43d35 e6e67a9
+Author: Satabda Das <207451@ibsplc.com>
+Date:   Fri Oct 20 15:34:39 2023 +0530
+
+    test2
+
+[33mcommit bf43d35d552a512c98e1a88fe11e223abbbe7659[m
+Author: Satabda Das <207451@ibsplc.com>
+Date:   Fri Oct 20 15:14:46 2023 +0530
+
+    test
+
+[33mcommit e6e67a9b6f53877492e2e0530a313a62043b8a12[m
+Author: Satabda Das <207451@ibsplc.com>
+Date:   Fri Oct 20 15:09:36 2023 +0530
+
+    test
+
+[33mcommit 93aa6779c8cdc81a91f57f63a9a2e983c8428546[m
+Author: Satabda Das <207451@ibsplc.com>
+Date:   Fri Oct 20 15:01:40 2023 +0530
+
+    test
+
+[33mcommit 370589a78db87182788488433cf6772d9262f80f[m
+Author: Satabda Das <207451@ibsplc.com>
+Date:   Fri Oct 20 14:50:32 2023 +0530
+
+    test
